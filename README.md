@@ -2,6 +2,10 @@
 
 Welcome to the COVID-19 USA Data Storytelling project! In this repository, we explore and analyze the impact of the COVID-19 pandemic in the United States. With a focus on average death rates, this project aims to provide valuable insights through data-driven storytelling.
 
+## What is Data Storytelling?
+
+Data storytelling is a method of conveying insights and findings from data analysis in a compelling and easily understandable narrative form. It combines data analysis with elements of storytelling to make data-driven insights more accessible and impactful to a broader audience, including non-technical individuals.
+
 ## Key Highlights
 
 - **Quarterly and Monthly Insights:** Dive into our comprehensive analysis, which includes both quarterly and monthly breakdowns of COVID-19 data. This granularity allows you to uncover subtle trends and changes in the pandemic's trajectory.
