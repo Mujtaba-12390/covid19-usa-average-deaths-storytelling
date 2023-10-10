@@ -37,8 +37,20 @@ Ensure you have Jupyter Notebook installed. If not, you can install it using:
 ```
 pip install jupyter
 ```
+**3. Launch Jupyter Notebook:**
+```
+jupyter notebook
+```
+*4. Install Python libraries:**
+You must install Python and its libraries. If not, you can install it using:
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+```
 
- **3. Explore the Analysis:** Dive into the analysis by opening the `covid19-usa-average-deaths-storytelling.ipyub` file in your preferred Python environment.
+ **5. Explore the Analysis:** Dive into the analysis by opening the `covid19-usa-average-deaths-storytelling.ipyub` file in your preferred Python environment.
 
 ## License
 
