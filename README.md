@@ -59,3 +59,15 @@ This project is open-source and available under the [MIT License](https://github
 We look forward to your exploration and contributions. Together, let's uncover the stories hidden within the COVID-19 data!
 
 [Explore the Data Storytelling](https://github.com/Mujtaba-12390/covid19-usa-average-deaths-storytelling)
+
+## Contact Me
+
+If you have questions, or suggestions, or want to discuss this project further, please feel free to reach out. I welcome collaboration and feedback.
+
+- **Email:** [Email Address](mailto:technicalmujtabaraza@gmail.com)
+- **GitHub:** [GitHub Profile](https://github.com/Mujtaba-12390/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-mujtaba-raza/)
+- **Medium Articles:** [Medium Profile](https://medium.com/@mujtabaraza09321)
+
+I look forward to connecting with you and exploring the fascinating world of COVID-19 data together.
+
