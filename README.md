@@ -41,7 +41,7 @@ pip install jupyter
 ```
 jupyter notebook
 ```
-*4. Install Python libraries:**
+**4. Install Python libraries:**
 You must install Python and its libraries. If not, you can install it using:
 ```
 pip install pandas
